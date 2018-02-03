@@ -1,6 +1,6 @@
+#FROM criticalblue/nodejs
+FROM scratch/docker-nodejs
 
-
-FROM criticalblue/nodejs
 
 
 # == Installs latest version of PhoneGap
